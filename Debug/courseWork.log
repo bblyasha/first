@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\курсовая 3 сем\courseWork\vector.h(45): warning C4715: vector<int>::getByIndex: значение возвращается не при всех путях выполнения
+D:\курсовая 3 сем\courseWork\vector.h(45): warning C4715: vector<Ticket>::getByIndex: значение возвращается не при всех путях выполнения
+  courseWork.vcxproj -> D:\курсовая 3 сем\courseWork\Debug\courseWork.exe
